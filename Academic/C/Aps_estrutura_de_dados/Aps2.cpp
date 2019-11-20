@@ -1,13 +1,6 @@
 #include<stdio.h>
-//ALUNOS
-//Nome:João Gilberto G.C de Queiroz
-//Matricula:2017200385
-//Nome:Matheus Moura de Carvalho
-//Matricula:2017200415
-//Nome:
-//Matricula:
-//Nome:
-//Matricula:
+
+/*Programa que cripitografa e descriptografa uma matriz. */
 main(){
 	char matOri[3][2]= {'B','S','R','I','A','L'};
 	int l, c, aux;

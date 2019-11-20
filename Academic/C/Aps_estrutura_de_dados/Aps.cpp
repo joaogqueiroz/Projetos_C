@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+/*Programa que realiza multiplicação de matrizes em C*/
 
 main(){
 	int i, j, x;
